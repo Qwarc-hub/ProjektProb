@@ -1,0 +1,14 @@
+C:\Users\hejmr\source\repos\SchroniskoAPP\SchroniskoAPP\bin\Debug\net8.0\SchroniskoAPP.exe
+C:\Users\hejmr\source\repos\SchroniskoAPP\SchroniskoAPP\bin\Debug\net8.0\SchroniskoAPP.deps.json
+C:\Users\hejmr\source\repos\SchroniskoAPP\SchroniskoAPP\bin\Debug\net8.0\SchroniskoAPP.runtimeconfig.json
+C:\Users\hejmr\source\repos\SchroniskoAPP\SchroniskoAPP\bin\Debug\net8.0\SchroniskoAPP.dll
+C:\Users\hejmr\source\repos\SchroniskoAPP\SchroniskoAPP\bin\Debug\net8.0\SchroniskoAPP.pdb
+C:\Users\hejmr\source\repos\SchroniskoAPP\SchroniskoAPP\obj\Debug\net8.0\SchroniskoAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hejmr\source\repos\SchroniskoAPP\SchroniskoAPP\obj\Debug\net8.0\SchroniskoAPP.AssemblyInfoInputs.cache
+C:\Users\hejmr\source\repos\SchroniskoAPP\SchroniskoAPP\obj\Debug\net8.0\SchroniskoAPP.AssemblyInfo.cs
+C:\Users\hejmr\source\repos\SchroniskoAPP\SchroniskoAPP\obj\Debug\net8.0\SchroniskoAPP.csproj.CoreCompileInputs.cache
+C:\Users\hejmr\source\repos\SchroniskoAPP\SchroniskoAPP\obj\Debug\net8.0\SchroniskoAPP.dll
+C:\Users\hejmr\source\repos\SchroniskoAPP\SchroniskoAPP\obj\Debug\net8.0\refint\SchroniskoAPP.dll
+C:\Users\hejmr\source\repos\SchroniskoAPP\SchroniskoAPP\obj\Debug\net8.0\SchroniskoAPP.pdb
+C:\Users\hejmr\source\repos\SchroniskoAPP\SchroniskoAPP\obj\Debug\net8.0\SchroniskoAPP.genruntimeconfig.cache
+C:\Users\hejmr\source\repos\SchroniskoAPP\SchroniskoAPP\obj\Debug\net8.0\ref\SchroniskoAPP.dll

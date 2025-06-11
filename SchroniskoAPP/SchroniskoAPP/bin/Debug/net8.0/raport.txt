@@ -1,0 +1,11 @@
+=== RAPORT SCHRONISKA ===
+
+Zwierzęta:
+ID: 1, Imię: burek, Gatunek: Pies, Status: Nowy
+ID: 2, Imię: burek, Gatunek: Kot, Status: Nowy
+
+Adopcje:
+
+Historia statusów:
+
+==========================
